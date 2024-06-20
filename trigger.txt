@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.5.0.post1 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/vllm:v0.5.0.post1
+cuda:12.4.1-devel-ubuntu22.04 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/cuda:12.4.1-devel-ubuntu22.04
