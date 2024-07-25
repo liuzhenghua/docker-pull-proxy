@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.4.2 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/vllm-openai:v0.4.2
+pytorch/pytorch:1.12.1-cuda11.3-cudnn8-runtime registry.cn-shenzhen.aliyuncs.com/docker-mirror2/pytorch:1.12.1-cuda11.3-cudnn8-runtime
