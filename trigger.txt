@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.5.3.post1 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/vllm-openai:v0.5.3.post1
+vllm/vllm-openai:v0.5.5 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/vllm-openai:v0.5.5
