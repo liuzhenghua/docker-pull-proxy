@@ -1,1 +1,1 @@
-nvcr.io/nvidia/pytorch:24.05-py3 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/pytorch:nvidia-24.05-py3
+langgenius/dify-sandbox:0.2.9 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/dify-sandbox:0.2.9
