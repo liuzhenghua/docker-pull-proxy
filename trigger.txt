@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.9 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/dify-sandbox:0.2.9
+semitechnologies/weaviate:1.26.7 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/weaviate:1.26.7
