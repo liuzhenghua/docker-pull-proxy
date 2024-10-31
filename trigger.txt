@@ -1,1 +1,1 @@
-semitechnologies/weaviate:1.26.7 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/weaviate:1.26.7
+semitechnologies/weaviate:1.26.8 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/weaviate:1.26.8
