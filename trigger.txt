@@ -1,1 +1,1 @@
-pytorch/pytorch:2.5.1-cuda12.4-cudnn9-runtime registry.cn-shenzhen.aliyuncs.com/docker-mirror2/pytorch:2.5.1-cuda12.4-cudnn9-runtime
+semitechnologies/weaviate:1.26.11 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/weaviate:1.26.11
