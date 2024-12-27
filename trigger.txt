@@ -1,1 +1,1 @@
-darthsim/imgproxy:v3.8.0 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/darthsim-imgproxy:v3.8.0
+supabase/postgres-meta:v0.84.2 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/supabase:postgres-meta-v0.84.2
