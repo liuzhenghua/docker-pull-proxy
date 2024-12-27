@@ -1,1 +1,1 @@
-supabase/realtime:v2.33.70 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/supabase:realtime-v2.33.70
+supabase/storage-api:v1.11.13 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/supabase:storage-api-v1.11.13
