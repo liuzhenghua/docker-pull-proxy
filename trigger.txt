@@ -1,1 +1,1 @@
-timberio/vector:0.28.1-alpine registry.cn-shenzhen.aliyuncs.com/docker-mirror2/timberio-vector:0.28.1-alpine
+supabase/supavisor:1.1.56 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/supabase:supavisor-1.1.56
