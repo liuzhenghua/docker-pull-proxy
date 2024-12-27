@@ -1,1 +1,1 @@
-postgrest/postgrest:v12.2.0 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/postgrest:v12.2.0
+supabase/realtime:v2.33.70 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/supabase:realtime-v2.33.70
