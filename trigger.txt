@@ -1,1 +1,1 @@
-supabase/studio:20241202-71e5240 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/supabase:studio-20241202-71e5240
+kong:2.8.1 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/kong:2.8.1
