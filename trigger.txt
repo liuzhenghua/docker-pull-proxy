@@ -1,1 +1,1 @@
-supabase/postgres:15.6.1.146 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/supabase:postgres-15.6.1.146
+timberio/vector:0.28.1-alpine registry.cn-shenzhen.aliyuncs.com/docker-mirror2/timberio-vector:0.28.1-alpine
