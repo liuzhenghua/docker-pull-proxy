@@ -1,1 +1,1 @@
-supabase/gotrue:v2.164.0 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/supabase:gotrue-v2.164.0
+postgrest/postgrest:v12.2.0 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/postgrest:v12.2.0
