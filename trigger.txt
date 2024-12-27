@@ -1,1 +1,1 @@
-supabase/edge-runtime:v1.65.3 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/supabase:edge-runtime-v1.65.3
+supabase/logflare:1.4.0 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/supabase:logflare-1.4.0
