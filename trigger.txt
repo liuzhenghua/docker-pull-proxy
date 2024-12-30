@@ -1,1 +1,1 @@
-supabase/supavisor:1.1.56 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/supabase:supavisor-1.1.56
+semitechnologies/weaviate:1.26.13 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/weaviate:1.26.13
