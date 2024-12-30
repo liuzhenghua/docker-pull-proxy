@@ -1,1 +1,1 @@
-semitechnologies/weaviate:1.26.13 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/weaviate:1.26.13
+postgres:15-alpine registry.cn-shenzhen.aliyuncs.com/docker-mirror2/postgres:15-alpine
