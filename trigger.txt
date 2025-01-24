@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.6.6.post1 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/vllm-openai:v0.6.6.post1
+docker pull openmmlab/lmdeploy:v0.7.0-cu12 registry.cn-shenzhen.aliyuncs.com/docker-mirror2/lmdeploy:v0.7.0-cu12
